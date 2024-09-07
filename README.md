@@ -2,6 +2,10 @@
 
 **Himalayan Legends** is an immersive WebGL game developed by **Swornim** using the Unity engine. Embark on thrilling adventures through the Himalayas, facing mythical creatures, challenging terrains, and uncovering ancient legends. 
 
+![Himalayan Legends](1.png)
+![Himalayan Legends](2.png)
+
+
 ## Features
 - **Platform:** WebGL (runs in modern web browsers)
 - **Compatibility:** Desktop and Mobile
